@@ -32,10 +32,10 @@ function siteLink(string, lnk){
 // The title
 header("mudkipboy7's Website", "60px");
 	header("Links:", "40px");
-		siteLink("Youtube", "https://www.youtube.com/channel/UCrXtqEWE-T7JZhUWKnb9gSg")
-		siteLink("Twitter", "https://twitter.com/mudkipboy7")
-		siteLink("Reddit", "https://reddit.com/u/mudkipboy7")
-		siteLink("GitHub", "https://github.com/mudkipboy7")
-		siteLink("Twitch", "https://twitch.tv/mudkipboy7")
+		siteLink("Youtube", "https://www.youtube.com/channel/UCrXtqEWE-T7JZhUWKnb9gSg");
+		siteLink("Twitter", "https://twitter.com/mudkipboy7");
+		siteLink("Reddit", "https://reddit.com/u/mudkipboy7");
+		siteLink("GitHub", "https://github.com/mudkipboy7");
+		siteLink("Twitch", "https://twitch.tv/mudkipboy7");
 
 
